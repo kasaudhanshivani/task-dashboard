@@ -1,6 +1,5 @@
 {
   "homepage": "https://kasaudhanshivani.github.io/project",
-
   "name": "task-dashboard",
   "version": "0.1.0",
   "private": true,
@@ -24,8 +23,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
